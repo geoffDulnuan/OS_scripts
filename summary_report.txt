@@ -1,0 +1,8 @@
+Payment Summary Report - 2025-11-17 21:42:13
+=========================================
+CSV file: payments.csv
+Total lines in CSV (excluding header): 0
+Payments processed: 0
+Total amount processed: 501.25
+
+See update_log.txt for detailed per-customer updates and warnings.
