@@ -1,0 +1,5 @@
+CustomerID,Name,Amount,Date,PaymentChannel
+101,Genrev Roque,100.50,2023-10-01,CLIQQ
+102,Geoff Dulnuan,200.75,2023-10-02,SM Bills Payment
+103,Benard Pacis,150.00,2023-10-03,CLIQQ
+104,Abigail Palacay,50.00,2023-10-04,CLIQQ
